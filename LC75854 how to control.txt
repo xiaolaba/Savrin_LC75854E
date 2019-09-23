@@ -1,0 +1,35 @@
+LC75854, LCD driver, write data to display driver
+
+
+CL is stopped at the high level
+
+CCB bus address 0x42,
+CE = high
+display data, bit, D1-D44,
+control data, bit, 0,0,S0,S1 = 0,0,0,0
+control data, bit, K0,K1,P0,P1,SC,DR 
+control data, DD = 0,0
+CE = low
+
+CCB bus address 0x42,
+CE =high
+display data, bit, D45-D64,
+control data, bit, 0,0,0,0
+control data, bit, 0,0,0,0,0,0
+control data, DD = 0,1
+CE = low
+
+CCB bus address 0x42,
+CE =high
+display data, bit, D65-D124,
+control data, bit, 0,0,0,0
+control data, bit, 0,0,0,0,0,0
+control data, DD = 1,0
+
+CCB bus address 0x42,
+CE =high
+display data, bit, D125-D164,
+control data, bit, 0,0,0,0
+control data, bit, 0,0,0,0,0,0
+control data, DD = 1,1
+CE = low
