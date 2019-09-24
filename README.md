@@ -22,8 +22,8 @@ modified to fit for LC75854, does NOT compatible with the origial.
 
 
 single connection,
-Arduino pin,    GND, D3, D4, D5, all output
-LCD module pin, GND, DI, CL, CE, all input, interal has 1k resistor for each
+Arduino pin,    GND, D3, D4, D5, all output  
+LCD module pin, GND, DI, CL, CE, all input, interal has 1k current limit resistor for each  
 
 Power connection,  
 LCD module pin, +IL, backlight, connect to 12V power source. Interal has 9V regulator.  
