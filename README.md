@@ -14,4 +14,9 @@ Savrin, a car, panasonic car audio, LCD module, chipset LC75854, CBB bus and tes
 testing log, clcik to see video following,
  
 [![click this to see video log](https://img.youtube.com/vi/N-HNLAAlvSo/0.jpg)](https://www.youtube.com/watch?v=N-HNLAAlvSo)
+
+
+
+The library SanyoCCB.cpp, original copy from https://github.com/RodLophus/SanyoCCB
+modified to fit for LC75854, does NOT compatible with the origial.
  
