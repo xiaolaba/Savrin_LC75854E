@@ -31,5 +31,12 @@ LCD module pin, +ACC, connect to 12V power source, Interal has simple Zener regu
 LCD module pin, O, GND.  
 
 
+
+Panasonic Car audio CQ-JB147AA_B LCD connector.jpg
+
+![Panasonic Car audio CQ-JB147AA_B LCD connector.jpg](Panasonic Car audio CQ-JB147AA_B LCD connector.jpg)
+
+
+
  
  
