@@ -6,7 +6,7 @@
  ![xiaolaba_LCD_LC75854_IMG_20190924_000329.jpg](xiaolaba_LCD_LC75854_IMG_20190924_000329.jpg)
 
 
- [![testing log](https://youtu.be/N-HNLAAlvSo)
+ ![testing log](https://youtu.be/N-HNLAAlvSo)
  
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N-HNLAAlvSo/0.jpg)](https://www.youtube.com/watch?v=N-HNLAAlvSo)
+ [![click this to see video log](https://img.youtube.com/vi/N-HNLAAlvSo/0.jpg)](https://www.youtube.com/watch?v=N-HNLAAlvSo)
  
