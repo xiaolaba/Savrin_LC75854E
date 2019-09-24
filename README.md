@@ -34,7 +34,8 @@ LCD module pin, O, GND.
 
 Panasonic Car audio CQ-JB147AA_B LCD connector.jpg
 
-![Panasonic Car audio CQ-JB147AA_B LCD connector.jpg](Panasonic Car audio CQ-JB147AA_B LCD connector.jpg)
+![Panasonic_Car_audio_CQ-JB147AA_B_LCD_connector.jpg](Panasonic_Car_audio_CQ-JB147AA_B_LCD_connector.jpg)  
+
 
 
 
