@@ -17,6 +17,6 @@ testing log, clcik to see video following,
 
 
 
-The library SanyoCCB.cpp, original copy from https://github.com/RodLophus/SanyoCCB
+The library SanyoCCB.cpp, original copy from https://github.com/RodLophus/SanyoCCB  
 modified to fit for LC75854, does NOT compatible with the origial.
  
